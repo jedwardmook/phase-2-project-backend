@@ -13,7 +13,10 @@
       "flatBar": true,
       "gap": false,
       "transition": true,
+      "handrail": false,
+      "wallride": false,
       "style": "park",
+      "description": "Skatepark in Logan Square with prefab ramps. Located under a highway overpass. Kind of grimey with pigeon poop everywhere.",
       "id": 1
     },
     {
@@ -29,7 +32,10 @@
       "flatBar": false,
       "gap": false,
       "transition": false,
+      "handrail": false,
+      "wallride": false,
       "style": "street",
+      "description": "A couple waxed curbs located off the 606 next to the Kimball Arts Center.",
       "id": 2
     },
     {
@@ -45,8 +51,30 @@
       "flatBar": true,
       "gap": true,
       "transition": true,
+      "handrail": true,
+      "wallride": true,
       "style": "park",
+      "description": "First skatepark in Chicago. Located over the lakefront trail. Cement ramps with large cracks in between sections. Fun but definitely dated.",
       "id": 3
+    },
+    {
+      "spotImage": "https://mapio.net/images-p/41828283.jpg",
+      "spotName": "Chase Bank",
+      "spotAddress": "10 S Dearborn St, Chicago, IL 60603, USA",
+      "spotArea": "Central Chicago",
+      "slappyCurb": false,
+      "stair": true,
+      "ledge": true,
+      "flatGround": true,
+      "manualPad": false,
+      "flatBar": true,
+      "gap": true,
+      "transition": false,
+      "handrail": true,
+      "wallride": true,
+      "style": "street",
+      "description": "One of the iconic Chicago skate spots. Plaza next to the Chase Bank Building, right off the Monroe blue line. Tons of waxed ledges, banked walls, rails, and stair set. Can get kicked out but pretty open at night.",
+      "id": 4
     }
   ]
 }
