@@ -75,6 +75,25 @@
       "style": "street",
       "description": "One of the iconic Chicago skate spots. Plaza next to the Chase Bank Building, right off the Monroe blue line. Tons of waxed ledges, banked walls, rails, and stair set. Can get kicked out but pretty open at night.",
       "id": 4
+    },
+    {
+      "spotImage": "https://storage.googleapis.com/fsscs1/images/large/f49286ed66268e3db3ec957938a86c97.jpg",
+      "spotName": "Mikolaj Kopernik",
+      "spotAddress": "507 E Solidarity Dr, Chicago, IL 60605, USA",
+      "spotArea": "Central Chicago",
+      "slappyCurb": false,
+      "stairs": false,
+      "ledge": true,
+      "flatGround": false,
+      "manualPad": true,
+      "flatBar": false,
+      "gap": false,
+      "transition": false,
+      "handrail": false,
+      "wallride": false,
+      "description": "Ledge and manual pad at Adler Planetarium. Prone to getting kicked out",
+      "style": "street",
+      "id": 5
     }
   ]
 }
