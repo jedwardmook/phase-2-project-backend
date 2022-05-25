@@ -167,6 +167,48 @@
       "description": "Skatepark in Little Village, La Villita Park. Right across the street from the prison. Park has a lot. Can get crowded and is bit on a bit of an incline.",
       "style": "park",
       "id": 8
+    },
+    {
+      "spotImage": "https://skatethestates.com/wp-content/uploads/2021/07/Grant-Park-Skatepark-Chicago.jpg",
+      "spotName": "Grant Park",
+      "spotAddress": "1135 S Michigan Ave, Chicago, IL 60605",
+      "spotArea": "Central Chicago",
+      "attribute": {
+        "slappyCurb": true,
+        "stairs": true,
+        "ledge": true,
+        "flatGround": true,
+        "manualPad": true,
+        "flatBar": true,
+        "gap": true,
+        "transition": true,
+        "handrail": true,
+        "wallride": true
+      },
+      "description": "Very modern plaza park in downtown built in 2014. Park has basically everything minus vert, mini ramp. Not far from the Roosevelt Redline stop.",
+      "style": "park",
+      "id": 9
+    },
+    {
+      "spotImage": "https://lede-admin.blockclubchicago.org/wp-content/uploads/sites/5/2021/10/Screen-Shot-2021-10-12-at-3.27.23-PM.png?w=710",
+      "spotName": "Logan Lot",
+      "spotAddress": "2392 N Milwaukee Ave, Chicago, IL 60647",
+      "spotArea": "North Side",
+      "attribute": {
+        "slappyCurb": true,
+        "stairs": false,
+        "ledge": false,
+        "flatGround": true,
+        "manualPad": false,
+        "flatBar": true,
+        "gap": false,
+        "transition": false,
+        "handrail": false,
+        "wallride": true
+      },
+      "description": "Parking lot located to the west of Liberty Bank. A lot of flat when bank is closed with waxed parking blocks and a few guardrails.",
+      "style": "street",
+      "id": 10
     }
   ]
 }
