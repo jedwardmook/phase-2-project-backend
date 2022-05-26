@@ -209,6 +209,27 @@
       "description": "Parking lot located to the west of Liberty Bank. A lot of flat when bank is closed with waxed parking blocks and a few guardrails.",
       "style": "street",
       "id": 10
+    },
+    {
+      "spotImage": "https://blog.skateboard.com.au/images/littlevillage2.jpg",
+      "spotName": "LV 1",
+      "spotAddress": "4325 West 31st Street Chicago, IL 60623",
+      "spotArea": "West Side",
+      "attribute": {
+        "slappyCurb": true,
+        "stairs": true,
+        "ledge": true,
+        "flatGround": true,
+        "manualPad": true,
+        "flatBar": true,
+        "gap": true,
+        "transition": true,
+        "handrail": true,
+        "wallride": true
+      },
+      "description": "Concrete park located in Piotrowski Park in Little Village. Less obstacles than Prison Park but overall very fun. No shade, very hot in the summer",
+      "style": "street",
+      "id": 11
     }
   ]
 }
